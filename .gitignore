@@ -1,0 +1,15 @@
+.dbsqlite3
+*.pyc
+*.sqlite3
+.idea
+.vagrant
+.dbdata
+.vscode
+vagrant_ansible_inventory_default
+*.t7
+*.log
+*.swp
+*.DS_Store
+*_trie
+tools/django-storages
+saml
